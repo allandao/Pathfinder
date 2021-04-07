@@ -1,9 +1,6 @@
 # User Guide
-The goal of the project is to implement two different methods of finding the shortest path on a 
+The goal of this project is to implement two different methods of finding the shortest path on a 
 given generated map, accomplished with two different branch programs - TileMap and ArrayMap.
-
-## Project Goal
-This is a group project with the goal of developing a Java project from scratch.
 
 ## Project Description
 ArrayMap and TileMap differences:
