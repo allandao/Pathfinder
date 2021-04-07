@@ -2,6 +2,8 @@
 The goal of the project is to implement two different methods of finding the shortest path on a 
 given generated map, accomplished with two different branch programs - TileMap and ArrayMap.
 
+## Project Goal
+This is a group project with the goal of developing a Java project from scratch.
 
 ## Project Description
 ArrayMap and TileMap differences:
@@ -65,7 +67,3 @@ a designated value of 9 would cost 9 units to traverse. After entering the desir
 and ending coordinate pairs, the path of least cost will be illustrated as a series of
 coordinate pairs, with arrows in between each pair illuminating the most cost-efficient
 route of travel.
-
-
-### Instructional Video
-See the video [here](http://youtube.com) or visit http://youtube.com.
